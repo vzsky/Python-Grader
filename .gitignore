@@ -1,0 +1,4 @@
+.DS_Store
+.vscode*
+source/
+db.sqlite3
